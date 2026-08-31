@@ -7,13 +7,11 @@ class Solution {
         int carry = 0;
 
         while(i>=0 || j>=0 || carry >0) {
-            int sum = carry;
+            if(i>=0) carry += a.charAt(i--)-'0';
+            if(j>=0) carry += b.charAt(j--)-'0';
 
-            if(i>=0) sum += a.charAt(i--)-'0';
-            if(j>=0) sum += b.charAt(j--)-'0';
-
-            ans.append(sum%2);
-            carry = sum / 2;
+            ans.append(carry%2);
+            carry /= 2;
         }
         return ans.reverse().toString();
     }
