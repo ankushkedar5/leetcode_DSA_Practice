@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -117,20 +119,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0136-single-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
