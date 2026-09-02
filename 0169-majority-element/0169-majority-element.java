@@ -6,7 +6,7 @@ class Solution {
             if(count == 0) {
                 mejElement = nums[i];
             }
-            count += (mejElement == nums[i]) ? 1 : -1;
+            count += (nums[i] == mejElement) ? 1 : -1;
         }
         return mejElement;
     }
