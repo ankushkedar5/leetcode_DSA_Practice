@@ -1,8 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int actual = n*(n+1) / 2;
+        int expectedSum = nums.length * ( nums.length + 1 ) / 2;
+        int actualSum = 0;
+        for(int num : nums) {
+            actualSum += num;
+        }
 
-        return actual - Arrays.stream(nums).sum();
+        return expectedSum - actualSum;
     }
 }
