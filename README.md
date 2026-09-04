@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
