@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0338-counting-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
