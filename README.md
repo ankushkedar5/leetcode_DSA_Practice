@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
