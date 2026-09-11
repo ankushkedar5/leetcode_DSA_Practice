@@ -1,15 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        List<Character> available = new ArrayList<>();
+        int[] count = new int[26];
         for(char ch : magazine.toCharArray()) {
-            available.add(ch);
+            count[ch - 'a']++;
         }
 
         for(char ch : ransomNote.toCharArray()) {
-            if(!available.contains(ch)) {
+            if(count[ch - 'a'] == 0) {
                 return false;
             }
-            available.remove((Character) ch);
+            count[ch - 'a']--;
         }
         return true;
     }
