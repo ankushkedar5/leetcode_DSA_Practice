@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
