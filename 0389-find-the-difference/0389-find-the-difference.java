@@ -10,10 +10,8 @@ class Solution {
             if(!list.contains(t.charAt(i))) {
                 return t.charAt(i);
             }
-            else {
-                list.remove((Character) t.charAt(i));
-            }
+            list.remove((Character) t.charAt(i));
         }
-        return 0;
+        return '\0';
     }
 }
