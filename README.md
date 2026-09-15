@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
