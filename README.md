@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
