@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0434-number-of-segments-in-a-string) |
 ## Trie
 |  |
 | ------- |
