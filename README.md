@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
