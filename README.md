@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
