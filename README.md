@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
