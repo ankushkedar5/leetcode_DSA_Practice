@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
