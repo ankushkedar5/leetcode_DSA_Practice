@@ -1,10 +1,17 @@
 class Solution {
     public boolean checkRecord(String s) {
-        if(s.contains("LLL")) return false;
         int countA = 0;
-        for(int i=0; i<s.length(); i++) {
-            if(s.charAt(i) == 'A') countA++;
+        int strikeL = 0;
+        for(char ch : s.toCharArray()) {
+            if(ch == 'A') {
+                if(++countA >= 2) return false;
+                strikeL = 0;
+            }
+            else if(ch == 'L') {
+                if(++strikeL >= 3) return false;
+            }
+            else strikeL = 0;
         }
-        return countA < 2;
+        return true;
     }
 }
