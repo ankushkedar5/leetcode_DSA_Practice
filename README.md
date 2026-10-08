@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
