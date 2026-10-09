@@ -1,15 +1,9 @@
-
-
 class Solution {
     public int findLHS(int[] nums) {
         Map<Integer, Integer> freq = new HashMap<>();
         
-        for(int i=0; i<nums.length; i++) {
-            int freqCount = 0;
-            for(int j=0; j<nums.length; j++) {
-                if(nums[j] == nums[i]) freqCount++;
-            }
-            freq.put(nums[i],freqCount);
+        for(int num : nums) {
+            freq.put(num,freq.getOrDefault(num, 0) + 1);
         }
 
         int best = 0;
