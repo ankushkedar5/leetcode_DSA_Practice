@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Trie
 |  |
 | ------- |
