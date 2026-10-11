@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0605-can-place-flowers) |
 ## Depth-First Search
 |  |
 | ------- |
