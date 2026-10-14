@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0643-maximum-average-subarray-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
