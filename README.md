@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
