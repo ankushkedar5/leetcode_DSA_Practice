@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
