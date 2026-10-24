@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0804-unique-morse-code-words) |
 ## Trie
 |  |
 | ------- |
