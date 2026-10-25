@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
