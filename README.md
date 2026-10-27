@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0824-goat-latin) |
 ## Trie
 |  |
 | ------- |
