@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
