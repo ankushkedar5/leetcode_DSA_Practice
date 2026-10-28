@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 ## String
 |  |
 | ------- |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
