@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
