@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
