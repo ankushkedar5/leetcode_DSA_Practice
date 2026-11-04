@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
