@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Brainteaser
 |  |
 | ------- |
@@ -437,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
