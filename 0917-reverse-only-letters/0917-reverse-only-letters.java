@@ -10,8 +10,8 @@ class Solution {
         int end = arr.length - 1;
 
         while(start < end) {
-            while(start < end && !isEnglishChar(arr[start])) start++;
-            while(start < end && !isEnglishChar(arr[end])) end--;
+            if(!isEnglishChar(arr[start])) start++;
+            if(!isEnglishChar(arr[end])) end--;
 
             if(isEnglishChar(arr[start]) && isEnglishChar(arr[end])) {
                 char temp = arr[start];
