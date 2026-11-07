@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0925-long-pressed-name) |
 ## Trie
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
