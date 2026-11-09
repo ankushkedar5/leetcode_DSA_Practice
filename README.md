@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
