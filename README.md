@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 ## Geometry
 |  |
 | ------- |
