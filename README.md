@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
