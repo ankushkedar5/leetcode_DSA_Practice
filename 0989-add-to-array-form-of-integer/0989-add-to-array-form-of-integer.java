@@ -15,9 +15,10 @@ class Solution {
                 k /= 10;
             }
             
-            list.add(0, number % 10);
+            list.add(number % 10);
             carry = number / 10;
         }
+        Collections.reverse(list);
         return list;
     }
 } 
