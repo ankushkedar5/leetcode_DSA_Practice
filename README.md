@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0999-available-captures-for-rook) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Depth-First Search
 |  |
 | ------- |
