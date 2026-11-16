@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
