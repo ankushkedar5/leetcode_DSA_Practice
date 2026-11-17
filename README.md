@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Depth-First Search
 |  |
 | ------- |
