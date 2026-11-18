@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0997-find-the-town-judge) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
