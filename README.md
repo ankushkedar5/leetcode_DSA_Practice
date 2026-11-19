@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
