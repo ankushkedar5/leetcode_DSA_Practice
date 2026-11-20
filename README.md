@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
 ## String
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
 ## Euclidean Algorithm
 |  |
 | ------- |
