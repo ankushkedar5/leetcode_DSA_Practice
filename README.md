@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
