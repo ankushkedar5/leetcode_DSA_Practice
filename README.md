@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
 | ------- |
