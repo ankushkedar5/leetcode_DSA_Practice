@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1089-duplicate-zeros) |
 ## String Matching
 |  |
 | ------- |
