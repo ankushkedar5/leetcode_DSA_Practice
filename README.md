@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1089-duplicate-zeros) |
+| [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0888-fair-candy-swap) |
+| [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
