@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1037-valid-boomerang) |
+| [1103-distribute-candies-to-people](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1103-distribute-candies-to-people) |
 ## String
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0999-available-captures-for-rook) |
+| [1103-distribute-candies-to-people](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
