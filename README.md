@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -518,8 +522,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1095-find-in-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ankushkedar5/leetcode_DSA_Practice/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
