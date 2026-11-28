@@ -1,16 +1,17 @@
 class Solution {
     public int numEquivDominoPairs(int[][] dominoes) {
-        int pairs = 0;
-        for(int i=0; i<dominoes.length; i++) {
-            for(int j=i+1; j<dominoes.length; j++) {
-                int a = dominoes[i][0], b = dominoes[i][1];
-                int c = dominoes[j][0], d = dominoes[j][1];
+        int[] counts = new int[100];
 
-                if((a == c && b == d) || (a == d && b == c)) {
-                    pairs++;
-                }
-            }
+        int pairs = 0;
+        for(int[] dominoe : dominoes) {
+            int a = Math.min(dominoe[0], dominoe[1]);
+            int b = Math.max(dominoe[0], dominoe[1]);
+
+            int key = a * 10 + b;
+            pairs += counts[key];
+            counts[key]++;
         }
+
         return pairs;
     }
 }
